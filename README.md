@@ -81,5 +81,5 @@ Accuracy Score - 0.7925
 
 ## Author
 
-Himanshu Bho
+Himanshu Bhoi
 
